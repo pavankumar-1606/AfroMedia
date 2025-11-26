@@ -1,5 +1,5 @@
 {
-  "name": "streamwave-backend",
+  "name": "afromedia-backend",
   "version": "1.0.0",
   "main": "src/index.js",
   "type": "commonjs",
@@ -21,3 +21,4 @@
     "nodemon": "^3.1.0"
   }
 }
+
